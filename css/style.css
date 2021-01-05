@@ -1,0 +1,21 @@
+.text-container {
+
+	text-align: center;
+}
+
+
+
+p {
+	color: red;
+	font-size: 40px;
+	font-family: 'Redressed', cursive;
+}
+
+body {
+	color: white;
+	background-color: black;
+}
+
+
+
+	
