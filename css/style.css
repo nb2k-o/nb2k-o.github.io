@@ -15,10 +15,6 @@ p {
 	font-family: 'Redressed', cursive;
 }
 
-body {
-	color: white;
-	background-color: black;
-}
 
 .element {
   animation: pulse 5s infinite;
@@ -35,4 +31,11 @@ body {
 }
 
 
-	
+
+body {
+   padding:40px 0;
+   color: white;
+   background-color: black;
+   font-family: 'bebas', sans-serif;
+   background-color:#000;
+   }
