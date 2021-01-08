@@ -16,6 +16,11 @@ $('h2').on('mouseout', function() {
 
 
 
+$('.change').on('click', function() {
+  $.playSound("http://sly.hu/~csuser/sound/misc/nevet3.wav");
+  $(this).html('LOOK CLOSER AT THE IMAGE');
+});
+
 
 
 

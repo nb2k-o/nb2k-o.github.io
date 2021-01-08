@@ -11,12 +11,16 @@ h2 {
 }
 
 p {
-	
+	.
 	color: red;
 	font-size: 40px;
 	font-family: 'Redressed', cursive;
+
 }
 
+.change {
+color: red;
+}
 
 .element {
   animation: pulse 5s infinite;
@@ -51,7 +55,7 @@ body {
   margin:0 auto;
 }
 
-#kitten img {
+#kitten img{
   position:absolute;
   left:0;
   -webkit-transition: opacity 1s ease-in-out;
@@ -61,5 +65,6 @@ body {
 }
 
 #kitten img.top:hover {
+  color: black;
   opacity:0;
 }
